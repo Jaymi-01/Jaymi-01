@@ -42,7 +42,7 @@ If you want recommendations or just to geek out about your favorites, let's talk
 
 ## 📊 Most Used Languages
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaymi-01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> | 
+|<img src="https://github-readme-stats.vercel.app/api?username=Jaymi-01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> | 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymi-01&layout=compact&theme=tokyonight)
 
 ---
