@@ -2,7 +2,7 @@
 
 <!-- Brief intro template -->
 
-I am a passionate software engineer focused on building robust, scalable web applications. I love solving complex engineering challenges and creating modern user experiences.
+I am a passionate software developer focused on building robust, scalable web applications. I love solving complex engineering challenges and creating modern user experiences.
 
 - 🔭 I’m currently working on anything that tickles my fancy at the moment
 - 🌱 I’m currently learning Golang
